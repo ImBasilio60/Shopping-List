@@ -1,0 +1,66 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css);
+
+@font-face {
+    font-family: Roboto;
+    src: url(./font/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: Poppins;
+    src: url(./font/Poppins-Bold.ttf);
+}
+* {
+    color: #111827 !important;
+    font-family: "Roboto", sans-serif;
+}
+
+input:focus, .custom-select:focus {
+    box-shadow: 0 0 0 0.2rem rgba(34,197,94,0.5) !important ;
+    border-color: #22c55e !important;
+}
+body {
+    background-color: #f9fafb !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Poppins", sans-serif;
+}
+.header {
+    background-color: #22c55e !important;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.add-btn {
+    background-color: #10b981 !important;
+    border: none !important;
+    color: #fff !important;
+}
+.add-btn:hover {
+    background-color: #059669 !important;
+}
+
+.check-article {
+    color: #9ca3af !important;
+}
+
+.icon {
+    color: #6b7280 !important;
+}
+
+input[type="checkbox"]:checked {
+    background-color: #10b981 !important;
+    border: none !important;
+}
+
+
+.page-link:focus {
+    box-shadow: 0 0 0 0.2rem rgba(34,197,94,0.5) !important ;
+    background-color: transparent;
+}
+
+.active>.page-link, .page-link.active {
+    background-color: #10b981 !important;
+    border-color: #22C55E7F !important;
+    color: white !important;
+}
