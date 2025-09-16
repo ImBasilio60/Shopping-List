@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopping-List/static/css/main.ea41b5db.css",
+    "main.js": "/Shopping-List/static/js/main.988ffdd4.js",
+    "static/media/Roboto-Light.ttf": "/Shopping-List/static/media/Roboto-Light.73fd17b88d34c2b2f437.ttf",
+    "static/media/Poppins-Bold.ttf": "/Shopping-List/static/media/Poppins-Bold.9f0cd50bfdf6533c6cd2.ttf",
+    "index.html": "/Shopping-List/index.html",
+    "main.ea41b5db.css.map": "/Shopping-List/static/css/main.ea41b5db.css.map",
+    "main.988ffdd4.js.map": "/Shopping-List/static/js/main.988ffdd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea41b5db.css",
+    "static/js/main.988ffdd4.js"
+  ]
+}
